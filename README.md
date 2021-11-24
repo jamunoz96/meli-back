@@ -12,3 +12,6 @@ npm install
 ```
 npm run dev
 ```
+
+# Live demo - Deploy in heroku
+https://jamunoz96-meli-back.herokuapp.com/api
